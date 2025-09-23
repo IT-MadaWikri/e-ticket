@@ -1,0 +1,219 @@
+html {
+	font-size: 62.5%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul, li {
+	list-style: none;
+}
+
+input {
+	border: none;
+}
+
+body {
+  width: 98.2rem;
+  font-family: Poppins, sans-serif; /* Menggunakan font Poppins */
+}
+
+.frame-4-L3q {
+  box-sizing: border-box;
+  padding: 0 1.2rem;
+  width: 23cm; /* Mengatur panjang menjadi 23 sentimeter */
+  height: 2cm;
+  background-size: cover; /* Mengatur lebar menjadi 1.9 sentimeter */
+  overflow: hidden;
+  background-image: url('../images/tiket2.png'); 
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  margin-bottom: 1px;
+  page-break-inside: avoid;
+}
+
+
+.frame-4-L3q .auto-group-ylt1-g7h {
+  margin: 0rem 2.0rem 0.047rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 0rem 0.897rem 0.2rem;
+  display: flex;
+  align-items: center;
+  background-size: cover; /* Menyesuaikan ukuran gambar dengan ukuran elemen */
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+
+.frame-4-L3q .auto-group-ylt1-g7h .perbedaan-barcode-dan-qr-code-500x329-1-1-C63 {
+  width: 22mm; /* Lebar gambar barcode */
+  height: 15mm; /* Tinggi gambar barcode */
+  position: relative;
+  /*background-size: 100% 117.082%;
+  background-position: 0rem -0.0849rem; 
+  flex-shrink: 0;
+  filter: brightness(0.9);*/
+}
+
+.frame-4-L3q .auto-group-ylt1-g7h .item-1321007-Grb {
+  margin-bottom: 0.1561rem;
+  max-width: 0.7rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  writing-mode: vertical-lr; /* Ini untuk membuat teks menjadi vertikal */
+  transform: rotate(180deg);
+  /* Ini untuk membuat teks hadap kanan */
+}
+
+.frame-4-L3q .mwt-1-asH {
+  width: 22%;
+  height: 40%;
+  margin-left: -3px;
+  vertical-align: middle;
+  flex-shrink: 0;
+  margin-right: 14%;
+}
+
+
+.frame-4-L3q .peserta-qYK {
+  margin-left: -25%; /* Mendorong elemen ke kanan */
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1.33;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Calisto, serif;
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.container {
+  margin-top: -10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 1.5%;
+}
+
+.event-details {
+  
+  font-family: Poppins, sans-serif;
+  font-size: 8px;
+  color: #ffffff;
+  margin-left: -28%; 
+  text-align: center;
+}
+
+.label {
+  display: inline-block;
+  width: 5rem; /* Atur lebar label agar semua titik dua sejajar */
+  text-align: left; /* Memastikan teks di label rata kiri */
+  margin-right: -0.5rem; /* Menambahkan margin kanan agar ada jarak antara label dan konten */
+  vertical-align: top; /* Memastikan titik dua sejajar dengan teks di atasnya */
+  font-family: Poppins, sans-serif; /* Menggunakan font Poppins */
+  font-weight: 600; /* Ketebalan teks semibold */
+  color: #FFD700; /* Warna kuning */
+}
+
+.content {
+  display: inline-block;
+  text-align: left; /* Menentukan teks menjadi rata kiri */
+  vertical-align: middle; /* Memastikan konten rata tengah secara vertikal */
+  font-family: Poppins, sans-serif; /* Menggunakan font Poppins */
+  font-weight: 600; /* Ketebalan teks semibold */
+  color: #FFD700; /* Warna kuning */
+}
+
+.frame-4-L3q .no-1321007-nama-fulan-dept-it-plant-3-ZUK {
+
+  width: 6cm;
+  margin-left: 5px;
+  padding-right: 2cm;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Poppins, sans-serif; /* Menggunakan font Poppins */
+  flex-shrink: 0;
+  display: inline-block;
+  text-align: left; /* Menentukan teks menjadi rata kiri */
+  font-size: 11px;
+  margin-top: -5px;
+}
+
+
+
+.frame-4-L3q .item--FM9 {
+  margin-right: -17px;
+  margin-left: -85px;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.frame-4-L3q .auto-group-utnx-nby {
+  margin-bottom: 1.2rem;
+  width: 3cm;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-right: 1rem;
+}
+
+.frame-4-L3q .auto-group-utnx-nby .kupon-doorprize-8fq {
+  margin-top: 7px;
+  margin-bottom: 0.6rem;
+  padding-right: -5rem;
+  font-size: 9px;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Poppins';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-align: center;
+
+}
+
+.frame-4-L3q .auto-group-utnx-nby .auto-group-zolb-Ty1 {
+  width: 55%;
+  height: 2.3rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Poppins';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+  filter: brightness(0.9);
+  margin-top: -3px;
+}
+
+@media print {
+  @page {
+    size: A3;
+    margin: 0.5cm;
+  }
+}
+
+
+
